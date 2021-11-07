@@ -1,5 +1,5 @@
 # heat-transfer
-Heat transfer problemas solved using python
+Heat transfer problems solved using python
 
 isolation-convection.py compares the temperature distribution on the problem as shown in the image below
 
