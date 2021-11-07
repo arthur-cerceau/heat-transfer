@@ -7,4 +7,4 @@ isolation-convection.py compares the temperature distribution on the problem as 
 
 convection-convection.py is the solution of the wall under the conditions shown in the next image
 
-![image](https://user-images.githubusercontent.com/93877655/140666769-c6f8fbc4-a624-4b3a-9de2-c7f388c1ccaf.png)
+![image](https://user-images.githubusercontent.com/93877655/140666845-11586d5f-0f88-433b-a0b9-cea77794ccd2.png)
