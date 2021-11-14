@@ -9,7 +9,7 @@ convection-convection.py is the solution of the wall under the conditions shown 
 
 ![image](https://user-images.githubusercontent.com/93877655/140666845-11586d5f-0f88-433b-a0b9-cea77794ccd2.png)
 
-heat_transfer_2d_permanent.py is the solution of the following problem using finite difference method
+heat_transfer_2d_steady-state.py is the solution of the following problem using finite difference method
 
 ![image](https://user-images.githubusercontent.com/93877655/141698764-e7e8e38f-96cb-4d66-977f-58e200de5f70.png)
 
