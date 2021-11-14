@@ -11,8 +11,8 @@ convection-convection.py is the solution of the wall under the conditions shown 
 
 heat_transfer_2d_steady-state.py is the solution of the following problem using finite difference method
 
-![image](https://user-images.githubusercontent.com/93877655/141698764-e7e8e38f-96cb-4d66-977f-58e200de5f70.png){width="685" height="275"}
+![image](https://user-images.githubusercontent.com/93877655/141698764-e7e8e38f-96cb-4d66-977f-58e200de5f70.png){:width="685px" height="275px"}
 
-![image](https://user-images.githubusercontent.com/93877655/141698805-d5c40b9f-340a-4aea-a4dc-ebab8ffb69aa.png){width="685" height="275"}
+![image](https://user-images.githubusercontent.com/93877655/141698805-d5c40b9f-340a-4aea-a4dc-ebab8ffb69aa.png){:width="685px" height="275px"}
 
 
